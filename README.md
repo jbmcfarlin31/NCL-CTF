@@ -5,7 +5,7 @@ This repo houses various CTF challenges.
 ## Instructions
 
 ### Background:
-Authorities have were able to make an arrest against a known hacker group in the area. They have managed to recover a few files from the hard drives.
+Authorities were able to make an arrest against a known hacker group in the area. They have managed to recover a few files from the hard drives.
 One of the files they recovered was called `ctf.pyc`, but the authorities are not sure what is needed to view this file.
 
 ### Tasks:
