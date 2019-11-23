@@ -2,13 +2,12 @@
 
 This repo houses various CTF challenges.
 
+**NOTE: all Python related challenges were written in Python3, so please use Python3 when attempting to solve.**
 ## Instructions
 
 ### Background:
 Authorities were able to make an arrest against a known hacker group in the area. They have managed to recover a few files from the hard drives.
 One of the files they recovered was called `ctf.pyc`, but the authorities are not sure what is needed to view this file.
-
-**NOTE: all Python related challenges were written in Python3, so please use Python3 when attempting to solve.**
 
 ### Tasks:
 The authorities have asked you to attempt to figure out the following:
