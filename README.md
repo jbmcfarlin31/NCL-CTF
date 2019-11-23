@@ -12,4 +12,4 @@ One of the files they recovered was called `ctf.pyc`, but the authorities are no
 The authorities have asked you to attempt to figure out the following:
 * What programming language is the file written in?
 * What numbering system is the flag written in BEFORE being translated?
-* What is the flag?
+* What is the hidden flag value?
