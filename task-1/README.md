@@ -19,8 +19,17 @@ The authorities have asked you to attempt to figure out the following:
 3. What is the numbering system that the flag is converted to?
 4. What is the the function `chr()` doing in this case?
 5. What is the hidden flag value?
+6. What is the value of the `use_me` variable?
+7. What type of encoding was used for the `use_me` variable?
+8. What cipher was used for the `use_this` variable?
+9. How many shifts did you need to use to decode the variable?
+10. The authorities realized through your help in viewing this code that information might be hidden in variables, and the attackers were using this methodology to share across platforms without the cleartext being shown. They think the `token_var` might contain useful information, but are unsure how to make sense of it. They did find the value `egardoxxl` with this file. Using the information provided, what is the hidden flag?
 
 ### Conversions (use the human-readable version of the flag unless otherwise specified)
-1. Convert the flag into hexadecimal.
-2. Convert the flag into binary representation.
+1. Convert the first flag (in E&E: Q5) into hexadecimal.
+2. Convert the first flag (in E&E: Q5) into binary representation.
 
+### Ciphers within Code
+1. Within the file, there seems to be an odd `TODO` comment section. What is the flag contained within this section?
+2. Relating to the above, what do the numbers represent that are concealing the flag? (Hint: think of the ascii code table)
+3. If you were to convert the numbers in question 1 to characters in Python, what built-in method would you use? (e.g. `<name>()`
