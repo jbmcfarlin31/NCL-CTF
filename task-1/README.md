@@ -32,4 +32,4 @@ The authorities have asked you to attempt to figure out the following:
 ### Ciphers within Code
 1. Within the file, there seems to be an odd `TODO` comment section. What is the flag contained within this section?
 2. Relating to the above, what do the numbers represent that are concealing the flag? (Hint: think of the ascii code table)
-3. If you were to convert the numbers in question 1 to characters in Python, what built-in method would you use? (e.g. `<name>()`
+3. If you were to convert the numbers in question 1 to characters in Python, what built-in method would you use? (e.g. `<name>()`)
