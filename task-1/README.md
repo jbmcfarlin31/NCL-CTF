@@ -12,7 +12,7 @@ All challenges can be solved using the command line and a web browser. While the
 You may work with a team of other students in the class, but you must submit your own answers.
 
 ## Scoring
-Each challenge is worth 5 points each for a total of 100 possible points. Keep in mind that some challenges build upon the correct answer from a previous challenge.
+Each challenge is worth 5 points for a total of 100 possible points. Keep in mind that some challenges build upon the correct answer from a previous challenge.
 
 ## Tasks:
 The authorities have asked you to attempt to figure out the following:
