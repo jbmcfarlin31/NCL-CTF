@@ -4,6 +4,13 @@
 Authorities were able to make an arrest against a known hacker group in the area. They have managed to recover a few files from the hard drives.
 One of the files they recovered was called `ctf.pyc`, but the authorities are not sure what is needed to view this file.
 
+## Rules of Engagement:
+For this Capture the Flag challenge you will be exploring version control systems, Python 3 syntax, Python 3 package installers, basic ciphers, and various numbering systems. 
+
+All challenges can be solved using the command line and a web browser. While the tools used to solve the challenges are available on all operating systems, the process of installing and using each tool may differ slightly between OS's. 
+
+You may work with a team of other students in the class, but you must submit your own answers.
+
 ## Tasks:
 The authorities have asked you to attempt to figure out the following:
 ### Command-line (interaction and open source intelligence gathering)
