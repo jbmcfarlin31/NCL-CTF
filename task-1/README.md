@@ -40,6 +40,9 @@ The authorities have asked you to attempt to figure out the following:
 2. Convert the first flag (in E&E: Q5) into binary representation.
 
 ### Ciphers within Code
+NOTE: When uncompiling the `pyc` file, these "comments" get stripped and are not shown. You will need to use the following to answer the question:
+- FLAG: 70 76 65 71 45 82 82 84 89 45 53 50 53 50
+
 1. Within the file, there seems to be an odd `TODO` comment section. What is the flag contained within this section?
 2. Relating to the above, what do the numbers represent that are concealing the flag? (Hint: think of the ascii code table)
 3. If you were to convert the numbers in question 1 to characters in Python, what built-in method would you use? (e.g. `<name>()`)
